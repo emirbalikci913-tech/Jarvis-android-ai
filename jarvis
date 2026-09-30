@@ -1,1 +1,1 @@
-jarvis
+- run: gradle assembleDebug
